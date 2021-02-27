@@ -10,6 +10,8 @@ Chromium 90 - Works - Does not redirect
 
 Firefox 52 - Works - Does not redirect
 
+Basilisk - Works - Does not redirect
+
 Internet Explorer 8 - Works - Redirects
 
 Internet Explorer 7 - Works - Redirects
