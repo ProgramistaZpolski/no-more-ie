@@ -19,3 +19,5 @@ Internet Explorer 7 - Works - Redirects
 Internet Explorer 6 - ***Should*** work, did not test
 
 Wine Internet Explorer - Works - Redirects
+
+Opera Gje Iks - Works - Redirects
