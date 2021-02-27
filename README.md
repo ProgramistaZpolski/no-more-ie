@@ -15,3 +15,5 @@ Internet Explorer 8 - Works - Redirects
 Internet Explorer 7 - Works - Redirects
 
 Internet Explorer 6 - ***Should*** work, did not test
+
+Wine Internet Explorer - Works - Redirects
